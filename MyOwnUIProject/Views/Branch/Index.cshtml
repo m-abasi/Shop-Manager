@@ -1,0 +1,49 @@
+﻿@using DTOs
+@model List<DTOs.BranchDto>
+@{
+    Layout = "_Layout";
+    var i = 1;
+    
+}
+<a asp-controller="Branch" asp-action="AddBranch">اضافه کردن شعبه</a>
+
+<form method="get" asp-controller="Branch" asp-action="Index">
+    <div class="container-xl">
+        <div class="input-group mb-3">
+
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">ردیف</th>
+                        <th scope="col">نام شعبه</th>
+                        <th scope="col">آدرس شعبه</th>
+                        <th scope="col">کد شعبه</th>
+                        <th scope="col">اینستاگرام شعبه</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@i</th>
+                            <td>@item.Name</td>
+                            <td>@item.Address</td>
+                            <td>@item.BranchCode</td>
+                            <td>@item.Instagram</td>
+                            <td>
+                                <a asp-action="EditBranch" asp-route-branchId="@item.Id">عملیات</a>
+                                <a asp-action="DeleteBranch" asp-route-branchId="@item.Id">حذف محصول</a>
+                                <a asp-action="GetProducts" asp-route-branchId="@item.Id">محصولات شعبه</a>
+
+                            </td>
+                        </tr>
+                        i++;
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A50CCE53-C159-44F9-AA06-663E3DBE7497}|DTOs\\DTOs.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50CCE53-C159-44F9-AA06-663E3DBE7497}|DTOs\\DTOs.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A50CCE53-C159-44F9-AA06-663E3DBE7497}|DTOs\\DTOs.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A50CCE53-C159-44F9-AA06-663E3DBE7497}|DTOs\\DTOs.csproj|solutionrelative:dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0AB1D1-65DD-4FA6-881C-8E4F3E88A87C}|Entities\\Entities.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\entities\\identityentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0AB1D1-65DD-4FA6-881C-8E4F3E88A87C}|Entities\\Entities.csproj|solutionrelative:entities\\identityentities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\Migrations\\20241228083607_Identity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20241228083607_Identity2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B95AAF-71CE-4772-9635-7725DEDC6C25}|ProductServices\\Services.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B95AAF-71CE-4772-9635-7725DEDC6C25}|ProductServices\\Services.csproj|solutionrelative:productservices\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7B95AAF-71CE-4772-9635-7725DEDC6C25}|ProductServices\\Services.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\productservices\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7B95AAF-71CE-4772-9635-7725DEDC6C25}|ProductServices\\Services.csproj|solutionrelative:productservices\\branchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0AB1D1-65DD-4FA6-881C-8E4F3E88A87C}|Entities\\Entities.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\entities\\identityentities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0AB1D1-65DD-4FA6-881C-8E4F3E88A87C}|Entities\\Entities.csproj|solutionrelative:entities\\identityentities\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\Migrations\\20241226140241_IdentityAdding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Migrations\\20241226140241_IdentityAdding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\controllers\\branchcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\views\\branch\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\views\\branch\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\views\\branch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\views\\branch\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F3D4D5-89BC-426E-893B-1FCCEB940FB7}|ProductServicesContract\\ServicesContract.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\productservicescontract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F3D4D5-89BC-426E-893B-1FCCEB940FB7}|ProductServicesContract\\ServicesContract.csproj|solutionrelative:productservicescontract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F3D4D5-89BC-426E-893B-1FCCEB940FB7}|ProductServicesContract\\ServicesContract.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\productservicescontract\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F3D4D5-89BC-426E-893B-1FCCEB940FB7}|ProductServicesContract\\ServicesContract.csproj|solutionrelative:productservicescontract\\ibranchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\views\\branch\\addbranch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\views\\branch\\addbranch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0AB1D1-65DD-4FA6-881C-8E4F3E88A87C}|Entities\\Entities.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0AB1D1-65DD-4FA6-881C-8E4F3E88A87C}|Entities\\Entities.csproj|solutionrelative:entities\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\views\\branch\\deletebranch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\views\\branch\\deletebranch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\views\\branch\\editbranch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\views\\branch\\editbranch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB0AB1D1-65DD-4FA6-881C-8E4F3E88A87C}|Entities\\Entities.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB0AB1D1-65DD-4FA6-881C-8E4F3E88A87C}|Entities\\Entities.csproj|solutionrelative:entities\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|c:\\users\\asus\\source\\repos\\myownuiproject\\myownuiproject\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48AAD081-5017-424D-AA35-18A4D89AFD58}|MyOwnUIProject\\MyOwnUIProject.csproj|solutionrelative:myownuiproject\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "DTOs\\RegisterDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:42:41.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Views\\Product\\CreateProduct.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeToolTip": "MyOwnUIProject\\Views\\Product\\CreateProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:58:23.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:09:46.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BranchService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\ProductServices\\BranchService.cs",
+              "RelativeDocumentMoniker": "ProductServices\\BranchService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\ProductServices\\BranchService.cs",
+              "RelativeToolTip": "ProductServices\\BranchService.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAowBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:43:43.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\ProductServices\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductServices\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\ProductServices\\ProductService.cs",
+              "RelativeToolTip": "ProductServices\\ProductService.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwH0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:55:12.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Program.cs",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Program.cs",
+              "RelativeToolTip": "MyOwnUIProject\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:04:22.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\IdentityEntities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Entities\\IdentityEntities\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\IdentityEntities\\ApplicationUser.cs",
+              "RelativeToolTip": "Entities\\IdentityEntities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:43:58.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BranchController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Controllers\\BranchController.cs",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Controllers\\BranchController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Controllers\\BranchController.cs",
+              "RelativeToolTip": "MyOwnUIProject\\Controllers\\BranchController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA0wCUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:32:45.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyOwnUIProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAYwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:44:30.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241228083607_Identity2.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\Migrations\\20241228083607_Identity2.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20241228083607_Identity2.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\Migrations\\20241228083607_Identity2.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20241228083607_Identity2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T08:36:08.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\IdentityEntities\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "Entities\\IdentityEntities\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\IdentityEntities\\ApplicationRole.cs",
+              "RelativeToolTip": "Entities\\IdentityEntities\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T13:45:41.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241226140241_IdentityAdding.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\Migrations\\20241226140241_IdentityAdding.cs",
+              "RelativeDocumentMoniker": "Entities\\Migrations\\20241226140241_IdentityAdding.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\Migrations\\20241226140241_IdentityAdding.cs",
+              "RelativeToolTip": "Entities\\Migrations\\20241226140241_IdentityAdding.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T14:02:41.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\ProductServicesContract\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductServicesContract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\ProductServicesContract\\IProductService.cs",
+              "RelativeToolTip": "ProductServicesContract\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:05:53.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IBranchService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\ProductServicesContract\\IBranchService.cs",
+              "RelativeDocumentMoniker": "ProductServicesContract\\IBranchService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\ProductServicesContract\\IBranchService.cs",
+              "RelativeToolTip": "ProductServicesContract\\IBranchService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:35:10.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Branch\\GetProducts.cshtml",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Views\\Branch\\GetProducts.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Branch\\GetProducts.cshtml",
+              "RelativeToolTip": "MyOwnUIProject\\Views\\Branch\\GetProducts.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:43:36.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteBranch.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Branch\\DeleteBranch.cshtml",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Views\\Branch\\DeleteBranch.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Branch\\DeleteBranch.cshtml",
+              "RelativeToolTip": "MyOwnUIProject\\Views\\Branch\\DeleteBranch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:42:08.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddBranch.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Branch\\AddBranch.cshtml",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Views\\Branch\\AddBranch.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Branch\\AddBranch.cshtml",
+              "RelativeToolTip": "MyOwnUIProject\\Views\\Branch\\AddBranch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:41:22.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditBranch.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Branch\\EditBranch.cshtml",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Views\\Branch\\EditBranch.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Branch\\EditBranch.cshtml",
+              "RelativeToolTip": "MyOwnUIProject\\Views\\Branch\\EditBranch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:40:07.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Branch\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Views\\Branch\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Branch\\Index.cshtml",
+              "RelativeToolTip": "MyOwnUIProject\\Views\\Branch\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T12:33:48.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyOwnUIProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBPwB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T12:53:33.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyOwnUIProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:52:14.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MyOwnUIProject\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:01:00.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\Branch.cs",
+              "RelativeDocumentMoniker": "Entities\\Branch.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\Branch.cs",
+              "RelativeToolTip": "Entities\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T16:07:59.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\Company.cs",
+              "RelativeDocumentMoniker": "Entities\\Company.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\Entities\\Company.cs",
+              "RelativeToolTip": "Entities\\Company.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAABVwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:45:40.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "MyOwnUIProject\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBPwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T16:16:36.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyOwnUIProject\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\MyOwnUIProject\\MyOwnUIProject\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "MyOwnUIProject\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAIBPwD4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T06:49:07.205Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

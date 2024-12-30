@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\bin\Debug\net7.0\ServicesContract.deps.json
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\bin\Debug\net7.0\ServicesContract.dll
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\bin\Debug\net7.0\ServicesContract.pdb
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\bin\Debug\net7.0\DTOs.dll
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\bin\Debug\net7.0\DTOs.pdb
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\ServicesContract.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\ServicesContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\ServicesContract.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\ServicesContract.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\ServicesContract.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\Services.63735B67.Up2Date
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\ServicesContract.dll
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\refint\ServicesContract.dll
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\ServicesContract.pdb
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\ref\ServicesContract.dll
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\bin\Debug\net7.0\Entities.dll
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\bin\Debug\net7.0\Entities.pdb

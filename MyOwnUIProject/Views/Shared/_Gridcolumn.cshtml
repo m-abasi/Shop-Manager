@@ -1,0 +1,19 @@
+﻿@using DTOs
+@model DTOs.ColumnNameDto
+
+@if (ViewBag.sortField == Model.ColumnName && ViewBag.orderBy == OrderEnum.ASC.ToString())
+{
+    <a href="~/products?searchType=@ViewBag.searchType&searchText=@ViewBag.searchText&sortField=@Model.ColumnName&orderBy=@OrderEnum.DESC">@Model.PersianName</a>
+    <i class="bi bi-caret-down-fill"></i>
+
+}
+else if (ViewBag.sortField == Model.ColumnName && ViewBag.orderBy == OrderEnum.DESC.ToString())
+{
+    <a href="~/products?searchType=@ViewBag.searchType&searchText=@ViewBag.searchText&sortField=@Model.ColumnName&orderBy=@OrderEnum.ASC">@Model.PersianName</a>
+    <i class="bi bi-caret-up-fill"></i>
+}
+else
+{
+    <a href="~/products?searchType=@ViewBag.searchType&searchText=@ViewBag.searchText&sortField=@Model.ColumnName&orderBy=@OrderEnum.ASC">@Model.PersianName</a>
+    <i class="bi bi-caret-up-fill"></i>
+}

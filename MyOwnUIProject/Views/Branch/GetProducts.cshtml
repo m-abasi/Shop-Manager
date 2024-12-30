@@ -1,0 +1,38 @@
+﻿@using DTOs
+@model List<DTOs.ProductDto>
+@{
+    Layout = "_Layout";
+    var i = 1;
+
+}
+<a asp-controller="Branch" asp-action="AddBranch">اضافه کردن شعبه</a>
+
+<form method="get" asp-controller="Branch" asp-action="GetProducts">
+    <div class="container-xl">
+        <div class="input-group mb-3">
+            <h3>لیست محصولات شعبه @ViewBag.Branch   </h3>
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">ردیف</th>
+                        <th scope="col">نام محصول</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@i</th>
+                            <td>@item.Name</td>
+                        </tr>
+                        i++;
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</form>

@@ -1,0 +1,27 @@
+﻿@using DTOs
+@model ProductDto
+@{
+    Layout = "_Layout";
+}
+<div class="container-xxl">
+
+    <form asp-controller="Product" asp-action="Delete" method="post">
+        @if (ViewBag.Errors != null)
+        {
+            foreach (string item in ViewBag.Errors)
+            {
+                <span class=" row alert alert-danger">@item</span>
+            }
+        }
+        <input type="hidden" asp-for="Id" />
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">نام محصول</label>
+            <input type="text" disabled="disabled" class="form-control" asp-for="Name" placeholder="@Model.Name">
+            <span asp-validation-for="Name" class="text text-danger"></span>
+        </div>
+
+
+        <button type="submit" class="btn btn-danger">حذف محصول</button>
+
+    </form>
+</div>

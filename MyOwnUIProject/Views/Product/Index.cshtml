@@ -1,0 +1,107 @@
+﻿@using DTOs
+@model List<DTOs.ProductDto>
+@{
+    Layout = "_Layout";
+    var i = 1;
+}
+<form method="get" asp-controller="product" asp-action="Index">
+    <div class="container-xl">
+        <div class="input-group mb-3">
+
+            <span class="input-group-text" id="basic-addon1">نحوه جست وجو</span>
+            <select name="searchType" class="form-select" aria-label="Default select example">
+                <option selected>انتخاب کنید</option>
+                @{
+                    foreach (SearchTypeDto item in ViewBag.searchTypeDto)
+                    {
+                        @if (ViewBag.searchType == item.Value)
+                        {
+                            <option selected="selected" value="@item.Value">@item.Text</option>
+
+                        }
+                        else
+                        {
+                            <option value="@item.Value">@item.Text</option>
+
+                        }
+                    }
+                }
+
+            </select>
+            <input value="@ViewBag.searchText" name="searchText" type="text" class="form-control" placeholder="وارد کنید ..." aria-label="Username" aria-describedby="basic-addon1">
+            <button type="submit" class="btn btn-primary">جستوجو</button>
+
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th scope="col">ردیف</th>
+                        <th scope="col">
+                            @await Html.PartialAsync("_Gridcolumn", new ColumnNameDto { ColumnName = nameof(ProductDto.Name), PersianName = "نام محصول" })
+                        </th>
+                        <th scope="col">توضیحات محصول</th>
+                        <th scope="col">
+                            @await Html.PartialAsync("_Gridcolumn", new ColumnNameDto { ColumnName = nameof(ProductDto.Price), PersianName = "قیمت محصول" })
+
+                        </th>
+                        <th scope="col">شعبه</th>
+                        <th scope="col">
+                            @await Html.PartialAsync("_Gridcolumn", new ColumnNameDto { ColumnName = nameof(ProductDto.Discount), PersianName = "تخفیف محصول" })
+                        </th>
+                        <th scope="col">تخفیف دارد؟</th>
+                        <th scope="col">نوع تخفیف</th>
+                        <th scope="col">ویرایش</th>
+
+
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <th scope="row">@i</th>
+                            <td>@item.Name</td>
+                            <td>@item.Description</td>
+                            <td>@item.Price</td>
+                            <td>@item.BranchName</td>
+                            <td>@item.Discount</td>
+                            <td>
+                                @if (item.HasDiscount)
+                                {
+                                    <text>بله</text>
+                                }
+                                else
+                                {
+                                    <text>خیر</text>
+                                }
+                            </td>
+                            <td>
+                                @if (item.DiscountType == DiscountTypeEnum.Percent)
+                                {
+                                    <text>درصدی</text>
+                                }
+                                else if (item.DiscountType == DiscountTypeEnum.Price)
+                                {
+                                    <text>ریالی</text>
+                                }
+                                else
+                                {
+                                    <text>ندارد</text>
+
+                                }
+                            </td>
+                            <td>
+                                <a asp-action="Edit" asp-route-productId="@item.Id">عملیات</a>
+                                <a asp-action="Delete" asp-route-productId="@item.Id">حذف محصول</a>
+
+                        </td>
+                        </tr>
+                        i++;
+                    }
+
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</form>

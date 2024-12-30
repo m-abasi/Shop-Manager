@@ -1,0 +1,74 @@
+﻿@using DTOs
+@model ProductDto
+@{
+    Layout = "_Layout";
+}
+<div class="container-xxl">
+
+    <form asp-controller="Product" asp-action="Edit" method="post">
+        @if (ViewBag.Errors != null)
+        {
+            foreach (string item in ViewBag.Errors)
+            {
+                <span class=" row alert alert-danger">@item</span>
+            }
+        }
+        <input type="hidden" asp-for="Id"/>
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">نام محصول</label>
+            <input type="text" class="form-control" asp-for="Name" placeholder="نام محصول زا وارد کنید">
+            <span asp-validation-for="Name" class="text text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Description" class="form-label">توضیحات محصول</label>
+            <textarea asp-for="Description" class="form-control" rows="3"></textarea>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Price" class="form-label text-start">قیمت محصول</label>
+            <input asp-for="Price" type="number" class="form-control text-start" placeholder="قیمت محصول را وارد کنید">
+            <span asp-validation-for="Price" class="text text-danger"></span>
+
+        </div>
+        <div class="form-check">
+            <input asp-for="HasDiscount" class="form-check-input" type="checkbox" value="true">
+            <label class="form-check-label" asp-for="HasDiscount">
+                تخفیف دارد؟
+            </label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input asp-for="DiscountType" class="form-check-input" type="radio" value="Percent" name="DiscountType">
+            <label class="form-check-label" asp-for="DiscountType">
+                تخفیف درصدی
+            </label>
+        </div>
+        <div class="form-check form-check-inline">
+            <input asp-for="DiscountType" class="form-check-input" type="radio" value="Price" name="DiscountType" checked>
+            <label class="form-check-label" asp-for="DiscountType">
+                تخفیف ریالی
+            </label>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Discount" class="form-label">تخفیف محصول</label>
+            <input asp-for="Discount" type="number" class="form-control text-start" placeholder="تخفیف محصول را وارد کنید">
+        </div>
+
+        <div class="mb-3">
+
+            <label asp-for="BranchId" class="form-label">شعبه</label>
+            <select asp-for="BranchId" class="form-select" aria-label="Default select example">
+                <option value="" selected="selected">شعبه را انتخاب کنید</option>
+                @{
+                    foreach (BranchDto item in ViewBag.Branches)
+                    {
+                        <option  value="@item.Id">@item.Name</option>
+                    }
+                }
+
+            </select>
+            <span asp-validation-for="BranchId" class="text text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">ثبت محصول</button>
+
+    </form>
+</div>
