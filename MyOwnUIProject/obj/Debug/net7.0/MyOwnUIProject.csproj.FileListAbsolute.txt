@@ -85,3 +85,4 @@ C:\Users\ASUS\source\repos\MyOwnUIProject\MyOwnUIProject\bin\Debug\net7.0\Micros
 C:\Users\ASUS\source\repos\MyOwnUIProject\MyOwnUIProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\ASUS\source\repos\MyOwnUIProject\MyOwnUIProject\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\ASUS\source\repos\MyOwnUIProject\MyOwnUIProject\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\source\repos\MyOwnUIProject\MyOwnUIProject\obj\Debug\net7.0\MyOwnUIProject.sourcelink.json

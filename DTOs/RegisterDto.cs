@@ -29,7 +29,7 @@ namespace DTOs
 
         [Required(ErrorMessage = "تکرار پسورد را وارد کنید")]
         [DataType(DataType.Password)]
-        [Compare(nameof(Password))]
+        [Compare(nameof(Password),ErrorMessage = "تکرار رمز عبور با رمز عبور مغایرت دارد")]
         public string ConfirmPassword { get; set; }
 
     }

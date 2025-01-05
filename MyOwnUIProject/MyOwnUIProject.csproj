@@ -28,4 +28,12 @@
     <ProjectReference Include="..\ProductServices\Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Views\Account\Register.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Views\Account\Register.cshtml" />
+  </ItemGroup>
+
 </Project>

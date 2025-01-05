@@ -15,3 +15,4 @@ C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7
 C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\ref\ServicesContract.dll
 C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\bin\Debug\net7.0\Entities.dll
 C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\bin\Debug\net7.0\Entities.pdb
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServicesContract\obj\Debug\net7.0\ServicesContract.sourcelink.json

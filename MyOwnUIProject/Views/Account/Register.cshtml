@@ -1,0 +1,53 @@
+﻿@model DTOs.RegisterDto
+@{
+    Layout = "_Layout";
+}
+<div class="container-xxl">
+
+    <form asp-controller="Account" asp-action="Register" method="post">
+
+        <div class="mb-3">
+            <label asp-for="FullName" class="form-label"></label>
+            <input type="text" class="form-control" asp-for="FullName" placeholder="نام کامل د">
+            <span asp-validation-for="FullName" class="text text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">ایمیل </label>
+            <input asp-for="Email" class="form-control" rows="3"></input>
+            <span asp-validation-for="Email" class="text text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Phone" class="form-label">شماره همراه </label>
+            <input asp-for="Phone" class="form-control" rows="3"></input>
+            <span asp-validation-for="Phone" class="text text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Password" class="form-label">رمز عبور </label>
+            <input asp-for="Password" class="form-control" rows="3"></input>
+            <span asp-validation-for="Password" class="text text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="ConfirmPassword" class="form-label">تکرار رمز عبور </label>
+            <input asp-for="ConfirmPassword" class="form-control" rows="3"></input>
+            <span asp-validation-for="ConfirmPassword" class="text text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Address" class="form-label">آدرس</label>
+            <textarea asp-for="Address" class="form-control" rows="3"></textarea>
+            <span asp-validation-for="Address" class="text text-danger"></span>
+        </div>
+        <div asp-validation-summary="All">
+            @if (ViewBag.Errors != null)
+            {
+                foreach (string error in ViewBag.Errors)
+                {
+                    <span class="row alert row-danger">@error</span>
+                }
+            }
+
+        </div>
+
+        <button type="submit" class="btn btn-primary">ثبت </button>
+
+    </form>
+</div>

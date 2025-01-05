@@ -17,3 +17,4 @@ C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServices\obj\Debug\net7.0\Servi
 C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServices\obj\Debug\net7.0\ref\Services.dll
 C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServices\bin\Debug\net7.0\Entities.dll
 C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServices\bin\Debug\net7.0\Entities.pdb
+C:\Users\ASUS\source\repos\MyOwnUIProject\ProductServices\obj\Debug\net7.0\Services.sourcelink.json
